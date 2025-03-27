@@ -1,0 +1,9 @@
+.env
+node_modules/
+package.json
+/frontend/package.json
+/ai_model/env
+/ai_model/yolov8n.pt
+
+
+
